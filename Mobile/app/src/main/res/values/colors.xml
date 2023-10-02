@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E9272C4D</color>
+    <color name="primary_dark">#2B1D40</color>
+    <color name="primary_text">#FF3700B3</color>
+    <color name="secondary_text">#8A8F8F</color>
+    <color name="input_background">#EDEDED</color>
+    <color name="chat_input_background">#23273E</color>
+    <color name="icon_background">#808080</color>
+    <color name="received_message_background">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error">#F31B1B</color>
+</resources>
